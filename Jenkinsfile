@@ -1,6 +1,12 @@
 @Library(['Atividade-Senai-Shared']) _
 
-senaiBuildPipeline {
+//senaiBuildPipeline {
+//}
 
+stage('Demo') {
+
+  echo 'Hello World'
+
+  sayHello 'Dave'
 
 }
