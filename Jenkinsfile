@@ -1,4 +1,4 @@
-@Library(['Atividade-Senai-Shared']) _
+@Library('Atividade-Senai-Shared')_
 
 //senaiBuildPipeline {
 //}
